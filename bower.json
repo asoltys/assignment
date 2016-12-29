@@ -1,0 +1,23 @@
+{
+  "name": "assignment",
+  "authors": [
+    "Adam Soltys <asoltys@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "slick-carousel": "slick.js#^1.6.0",
+    "font-awesome": "^4.6.3",
+    "flip": "^1.1.1",
+    "jquery-scrollTo": "^0.2.1"
+  }
+}
